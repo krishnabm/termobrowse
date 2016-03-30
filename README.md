@@ -1,0 +1,2 @@
+# termobrowse
+terminal retro browser
